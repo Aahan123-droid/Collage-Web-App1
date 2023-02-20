@@ -36,10 +36,6 @@ h4
 img:hover
 {
     border-radius: 140px;
-}
-
-#result1
-{
     width: 50px;
     border-radius: 30px;
     padding: 30px;
